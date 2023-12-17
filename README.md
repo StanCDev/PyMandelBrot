@@ -5,3 +5,5 @@ This little python program generates an image of the mandelbrot set where you sp
 * You can also select predefined window locations
 * The number of pixels on the x-axis. For the y axis will be scaled accordingly given a window size
 * An existing color scheme from matplotlib
+
+![image info](Mandelbrot_Size:500.PNG)
